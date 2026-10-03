@@ -102,13 +102,13 @@ Greenfield Electron desktop app for UNCW Women's Soccer covering video ingestion
 <div align="center">
 
 **Languages**<br/>
-<a><img src="https://skillicons.dev/icons?i=cpp,cs,java,py,ts,js&theme=dark" alt="C++, C#, Java, Python, TypeScript, JavaScript"/></a>
+<picture><img src="https://skillicons.dev/icons?i=cpp,cs,java,py,ts,js&theme=dark" alt="C++, C#, Java, Python, TypeScript, JavaScript"/></picture>
 
 **Frameworks**<br/>
-<a><img src="https://skillicons.dev/icons?i=qt,dotnet,spring,nestjs,react,electron,tailwind&theme=dark" alt="Qt, .NET, Spring, NestJS, React, Electron, Tailwind"/></a>
+<picture><img src="https://skillicons.dev/icons?i=qt,dotnet,spring,nestjs,react,electron,tailwind&theme=dark" alt="Qt, .NET, Spring, NestJS, React, Electron, Tailwind"/></picture>
 
 **Data & Infra**<br/>
-<a><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,docker,aws,cmake,git,neovim&theme=dark" alt="PostgreSQL, MySQL, SQLite, Redis, Docker, AWS, CMake, Git, Neovim"/></a>
+<picture><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,docker,aws,cmake,git,neovim&theme=dark" alt="PostgreSQL, MySQL, SQLite, Redis, Docker, AWS, CMake, Git, Neovim"/></picture>
 
 <sub>Also: Avalonia · LangChain · pgvector · Ollama · libGDX · vcpkg · Playwright</sub>
 
