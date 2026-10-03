@@ -35,7 +35,7 @@
 
 Native app that downloads Veo match recordings, with async, cancellable downloads. Ships static Intel builds made on Apple Silicon through a custom vcpkg triplet.
 
-<img src="https://img.shields.io/badge/C%2B%2B20-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Qt%206-41CD52?style=flat-square&logo=qt&logoColor=white"/> <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white"/> <img src="https://img.shields.io/badge/libcurl-073551?style=flat-square"/>
+<picture><img src="https://img.shields.io/badge/C%2B%2B20-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></picture> <picture><img src="https://img.shields.io/badge/Qt%206-41CD52?style=flat-square&logo=qt&logoColor=white"/></picture> <picture><img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white"/></picture> <picture><img src="https://img.shields.io/badge/libcurl-073551?style=flat-square"/></picture>
 
 </td>
 <td width="50%" valign="top">
@@ -45,7 +45,7 @@ Native app that downloads Veo match recordings, with async, cancellable download
 
 The same app rebuilt in C# with MVVM and interface-based services, to compare the two stacks side by side.
 
-<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/.NET%2010-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Avalonia-8B44AC?style=flat-square"/> <img src="https://img.shields.io/badge/MVVM-555555?style=flat-square"/>
+<picture><img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white"/></picture> <picture><img src="https://img.shields.io/badge/.NET%2010-512BD4?style=flat-square&logo=dotnet&logoColor=white"/></picture> <picture><img src="https://img.shields.io/badge/Avalonia-8B44AC?style=flat-square"/></picture> <picture><img src="https://img.shields.io/badge/MVVM-555555?style=flat-square"/></picture>
 
 </td>
 </tr>
@@ -57,7 +57,7 @@ The same app rebuilt in C# with MVVM and interface-based services, to compare th
 
 Layered REST API with a scheduled Python scraper, price history, and email alerts when prices drop. Runs with Docker Compose.
 
-<img src="https://img.shields.io/badge/Java%2017-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<picture><img src="https://img.shields.io/badge/Java%2017-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/></picture> <picture><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></picture> <picture><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></picture> <picture><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></picture>
 
 </td>
 <td width="50%" valign="top">
@@ -67,7 +67,7 @@ Layered REST API with a scheduled Python scraper, price history, and email alert
 
 AI study workspace. Uploaded course documents are chunked, embedded into pgvector, and used by a LangChain chatbot and quiz generator. I was the **project manager** and the **second-highest contributor** by commits.
 
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+<picture><img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/></picture> <picture><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></picture> <picture><img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white"/></picture> <picture><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/></picture> <picture><img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/></picture>
 
 </td>
 </tr>
@@ -79,7 +79,7 @@ AI study workspace. Uploaded course documents are chunked, embedded into pgvecto
 
 Greenfield Electron desktop app for UNCW Women's Soccer covering video ingestion, tagging, clipping and playback. As a **founding engineer** I built the Electron foundation and core video features, designed the AWS Lambda + S3 upload/download pipeline, and rebuilt the Cognito auth.
 
-<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square"/> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square"/>
+<picture><img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/></picture> <picture><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/></picture> <picture><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></picture> <picture><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square"/></picture> <picture><img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square"/></picture>
 
 </td>
 <td width="50%" valign="top">
@@ -89,7 +89,7 @@ Greenfield Electron desktop app for UNCW Women's Soccer covering video ingestion
 
 2D top-down Java game. I was the **top committer** and built the player character (sprite animation, movement, controls), the combat/damage logic, and the player's integration into the game loop.
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/libGDX-E74A45?style=flat-square"/> <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/>
+<picture><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/></picture> <picture><img src="https://img.shields.io/badge/libGDX-E74A45?style=flat-square"/></picture> <picture><img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/></picture>
 
 </td>
 </tr>
