@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Gregory McNutt 👋
+# Hi, I'm Gregory McNutt
 
 **Software Engineer** · Native Desktop · Backend · AI Tooling
 
@@ -14,23 +14,23 @@
 
 ---
 
-### 🧭 About me
+### About me
 
-- 🎓 Finishing a **B.S. in Software Engineering** at UNCW (December 2026)
-- 🛠️ I build **native desktop apps, backend services and AI tooling**, and sometimes the same app in two stacks to see what each one does well
-- 🇺🇸 **U.S. Air Force veteran** (6 years)
-- 🔭 Currently building **ConPlans**, my senior capstone for client Essential Personnel
-- 💼 Open to **full-time roles starting January 2027**
+- Finishing a **B.S. in Software Engineering** at UNCW (December 2026)
+- I build **native desktop apps, backend services and AI tooling**, and sometimes the same app in two stacks to see what each one does well
+- **U.S. Air Force veteran** (6 years)
+- Currently building **ConPlans**, my senior capstone for client Essential Personnel
+- Open to **full-time roles starting January 2027**
 
 ---
 
-### 🚀 Featured projects
+### Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🖥️ [veo-downloader-cpp](https://github.com/amcnutt1996/veo-downloader-cpp)
+#### [veo-downloader-cpp](https://github.com/amcnutt1996/veo-downloader-cpp)
 <sub>NATIVE & DESKTOP</sub>
 
 Native app that downloads Veo match recordings, with async, cancellable downloads. Ships static Intel builds made on Apple Silicon through a custom vcpkg triplet.
@@ -40,7 +40,7 @@ Native app that downloads Veo match recordings, with async, cancellable download
 </td>
 <td width="50%" valign="top">
 
-#### 🪟 [veo-downloader-csharp](https://github.com/amcnutt1996/veo-downloader-csharp)
+#### [veo-downloader-csharp](https://github.com/amcnutt1996/veo-downloader-csharp)
 <sub>NATIVE & DESKTOP</sub>
 
 The same app rebuilt in C# with MVVM and interface-based services, to compare the two stacks side by side.
@@ -52,7 +52,7 @@ The same app rebuilt in C# with MVVM and interface-based services, to compare th
 <tr>
 <td width="50%" valign="top">
 
-#### 📈 [price-tracker](https://github.com/amcnutt1996/price-tracker)
+#### [price-tracker](https://github.com/amcnutt1996/price-tracker)
 <sub>BACKEND</sub>
 
 Layered REST API with a scheduled Python scraper, price history, and email alerts when prices drop. Runs with Docker Compose.
@@ -62,7 +62,7 @@ Layered REST API with a scheduled Python scraper, price history, and email alert
 </td>
 <td width="50%" valign="top">
 
-#### 🧠 DisAI
+#### DisAI
 <sub>AI & RESEARCH · TEAM OF 4 · SPRING 2026</sub>
 
 AI study workspace. Uploaded course documents are chunked, embedded into pgvector, and used by a LangChain chatbot and quiz generator. I was the **project manager** and the **second-highest contributor** by commits.
@@ -74,7 +74,7 @@ AI study workspace. Uploaded course documents are chunked, embedded into pgvecto
 <tr>
 <td width="50%" valign="top">
 
-#### ⚽ Coach11
+#### Coach11
 <sub>FULL-STACK · TEAM OF 5 · SPRING 2026</sub>
 
 Greenfield Electron desktop app for UNCW Women's Soccer covering video ingestion, tagging, clipping and playback. As a **founding engineer** I built the Electron foundation and core video features, designed the AWS Lambda + S3 upload/download pipeline, and rebuilt the Cognito auth.
@@ -84,7 +84,7 @@ Greenfield Electron desktop app for UNCW Women's Soccer covering video ingestion
 </td>
 <td width="50%" valign="top">
 
-#### 🗡️ [Idle Knight Escape](https://github.com/tyler-relyter/IdleKnightEscape)
+#### [Idle Knight Escape](https://github.com/tyler-relyter/IdleKnightEscape)
 <sub>GAME · TEAM OF 4 · FALL 2025</sub>
 
 2D top-down Java game. I was the **top committer** and built the player character (sprite animation, movement, controls), the combat/damage logic, and the player's integration into the game loop.
@@ -97,7 +97,7 @@ Greenfield Electron desktop app for UNCW Women's Soccer covering video ingestion
 
 ---
 
-### 🧰 Tech stack
+### Tech stack
 
 <div align="center">
 
