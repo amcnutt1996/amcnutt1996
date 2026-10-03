@@ -33,4 +33,4 @@ U.S. Air Force veteran (6 years) · currently building **ConPlans**, my senior c
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/amcnutt1996) · [Email](mailto:amcnutt1996@gmail.com) · [gregoryandrew.dev](https://gregoryandrew.dev)
+[LinkedIn](https://www.linkedin.com/in/amcnutt1996) · [Email](mailto:amcnutt1996@gmail.com) · [Portfolio](https://gregoryandrew.dev)
