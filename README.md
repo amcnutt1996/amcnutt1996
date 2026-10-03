@@ -4,7 +4,7 @@ I'm a software engineer finishing my B.S. in Software Engineering at UNCW (Decem
 
 **I'm open to full-time roles starting January 2027.**
 
-U.S. Air Force veteran (6 years) · inactive TS/SCI clearance · currently building **ConPlans**, my senior capstone for client Essential Personnel
+U.S. Air Force veteran (6 years) · currently building **ConPlans**, my senior capstone for client Essential Personnel
 
 ---
 
