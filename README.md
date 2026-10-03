@@ -1,6 +1,7 @@
 ### Hi, I'm Gregory McNutt
 
 I'm a software engineer finishing my B.S. in Software Engineering at UNCW (December 2026). I build native desktop apps, backend services and AI tooling, and sometimes I build the same app in two stacks to see what each one does well.
+
 **I'm open to full-time roles starting January 2027.**
 
 U.S. Air Force veteran (6 years) · inactive TS/SCI clearance · currently building **ConPlans**, my senior capstone for client Essential Personnel
