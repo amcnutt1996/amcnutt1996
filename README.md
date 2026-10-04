@@ -4,8 +4,6 @@
 
 **Software Engineer** · Native Desktop · Backend · AI Tooling
 
-<a href="https://gregoryandrew.dev"><img src="https://img.shields.io/badge/Open%20to%20work-January%202027-2ea44f?style=for-the-badge" alt="Open to work starting January 2027"/></a>
-
 <a href="https://www.linkedin.com/in/amcnutt1996"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:amcnutt1996@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://gregoryandrew.dev"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
@@ -20,7 +18,6 @@
 - I build **native desktop apps, backend services and AI tooling**, and sometimes the same app in two stacks to see what each one does well
 - **U.S. Air Force veteran** (6 years)
 - Currently building **ConPlans**, my senior capstone for client Essential Personnel
-- Open to **full-time roles starting January 2027**
 
 ---
 
