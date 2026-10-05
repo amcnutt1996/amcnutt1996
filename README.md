@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Gregory McNutt
+# Hi, I'm Gregory
 
 **Software Engineer** · Native Desktop · Backend · AI Tooling
 
